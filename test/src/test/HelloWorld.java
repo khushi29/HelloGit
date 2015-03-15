@@ -7,7 +7,15 @@ public class HelloWorld {
 		System.out.println("hello...world");
 		SalesData salesdata = new SalesData();
 		salesdata.display();
+		sum( 45,67);
 
+	}
+	
+	private static int sum(int d, int f){
+		int a = 0;
+		int b = 0;
+		int c = a+b;
+		return c;
 	}
 
 }
