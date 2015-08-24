@@ -9,12 +9,19 @@ $(document).ready(function(){
             alert("The paragraph is now hidden");
         });
     });
+	
+	    $("button").click(function(){
+        $("#p1").css("color", "red").slideUp(4000).slideDown(4000);
+    });
 });
 </script>
 </head>
 <body>
 <p>This is a test</p>
 <button>Hide</button>
+//Chaining allows us to run multiple jQuery methods (on the same element) within a single statement.
+<p id="p1">jQuery is fun!!</p>
+<button>Click me</button>
 
 <p>This is a paragraph with little content.</p>
 
