@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Movie Objects and Methods</title>
+ <meta charset="utf-8">
+ <script>
+ window.onload = init;
+ 
+ function Movie(title, year, genre, rating, showtimes) {
+  this.title = title;
+  this.year = year;
+  this.genre = genre;
+  this.rating = rating;
+  this.showtimes = showtimes;
+
+this.updateRating = function(rating) {
+  this.rating = rating; 
+ };
+}
+
+ function init(){
+ 
+  var movie =  new Movie("Cinderella",2015,"Drama",7.1,"2:30");
+  movie.updateRating(7.2);
+  var div = document.getElementById("movies");
+  div.innerHTML = movie.title + " rating: " + movie.rating; 
+ }
+   
+ </script>
+</head>
+<body>
+ <div id="movies">
+ </div> 
+</body>
+</html>
