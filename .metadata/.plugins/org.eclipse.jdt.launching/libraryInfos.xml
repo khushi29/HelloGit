@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\core_spring" version="1.8.0_60">
+<bootpath>
+<entry path="C:\core_spring\lib\resources.jar"/>
+<entry path="C:\core_spring\lib\rt.jar"/>
+<entry path="C:\core_spring\lib\sunrsasign.jar"/>
+<entry path="C:\core_spring\lib\jsse.jar"/>
+<entry path="C:\core_spring\lib\jce.jar"/>
+<entry path="C:\core_spring\lib\charsets.jar"/>
+<entry path="C:\core_spring\lib\jfr.jar"/>
+<entry path="C:\core_spring\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\core_spring\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\core_spring\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

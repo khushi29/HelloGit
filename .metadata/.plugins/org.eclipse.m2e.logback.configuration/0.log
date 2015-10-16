@@ -1,0 +1,27 @@
+2015-10-16 15:22:57,495 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:TestProject:0.0.1-SNAPSHOT @ C:\HelloGit\TestProject\pom.xml.
+2015-10-16 15:22:57,495 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:TestProject:0.0.1-SNAPSHOT @ C:\HelloGit\TestProject\pom.xml.
+2015-10-16 15:23:22,471 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:22,554 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-16 15:23:22,575 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:22,575 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\HelloGit\TestProject\src\test\resources
+2015-10-16 15:23:24,099 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:TestProject:0.0.1-SNAPSHOT @ C:\HelloGit\TestProject\pom.xml.
+2015-10-16 15:23:28,175 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:28,240 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-16 15:23:28,246 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:28,246 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\HelloGit\TestProject\src\test\resources
+2015-10-16 15:23:29,672 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:29,672 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 15:23:29,693 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:23:29,694 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\HelloGit\TestProject\src\test\resources
+2015-10-16 15:24:56,123 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-16 15:24:56,197 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:TestProject:0.0.1-SNAPSHOT @ C:\HelloGit\TestProject\pom.xml.
+2015-10-16 15:24:56,454 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestProject/src/main/java
+2015-10-16 15:24:56,454 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestProject/src/main/resources
+2015-10-16 15:24:56,455 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestProject/src/test/java
+2015-10-16 15:24:58,747 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:TestProject:0.0.1-SNAPSHOT @ C:\HelloGit\TestProject\pom.xml.
+2015-10-16 15:25:00,217 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for TestProject
+2015-10-16 15:25:00,224 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2015-10-16 15:25:01,450 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:25:01,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-16 15:25:01,458 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 15:25:01,458 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\HelloGit\TestProject\src\test\resources
